@@ -12,3 +12,5 @@
 - https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq
 - https://www.youtube.com/watch?v=Hj_rA0dhr2I
 - https://motion.dev/
+- https://github.com/hkirat/Algorithmic-Resources
+- https://x.com/khairrishi/status/1859649886762958927
