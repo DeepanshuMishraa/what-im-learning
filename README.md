@@ -14,3 +14,7 @@
 - https://motion.dev/
 - https://github.com/hkirat/Algorithmic-Resources
 - https://x.com/khairrishi/status/1859649886762958927
+
+
+https://craftinginterpreters.com/
+Interpreter live by jon => https://www.youtube.com/watch?v=mNOLaw-_Buc
